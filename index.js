@@ -66,4 +66,8 @@ const person = {
   
   console.log(person1);
 
+<<<<<<< HEAD
 console.log("menambhahkan baris baru");
+=======
+console.log("baris ke enam online");
+>>>>>>> eb53d27b43c8d9f9db4ce81ab4281b535c2ee758
