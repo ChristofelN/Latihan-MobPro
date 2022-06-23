@@ -52,16 +52,16 @@ const person = {
   const combineObj = { ...obj1, ...obj2 };
   console.log(combineObj);
   
-  let person = {
+  let person1= {
     firstName: "John",
     lastName: "Doe",
     age: 33,
   };
   
-  person = {
-    ...person,
+  person1 = {
+    ...person1,
     address: "Manado",
     job: "Teacher",
   };
   
-  console.log(person);
+  console.log(person1);
