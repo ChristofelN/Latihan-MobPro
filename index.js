@@ -65,3 +65,5 @@ const person = {
   };
   
   console.log(person1);
+
+console.log("baris ke enam online");
