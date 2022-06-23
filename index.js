@@ -65,3 +65,5 @@ const person = {
   };
   
   console.log(person1);
+
+console.log("menambhahkan baris baru");
