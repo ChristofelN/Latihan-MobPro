@@ -68,4 +68,5 @@ const person = {
 console.log("menambhahkan baris baru");
 console.log("baris keenam online");
 console.log("selesai git2");
+console.log("test commit");
 
